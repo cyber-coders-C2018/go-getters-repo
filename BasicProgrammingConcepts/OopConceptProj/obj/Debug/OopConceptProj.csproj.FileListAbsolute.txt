@@ -1,0 +1,7 @@
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\OopConceptProj\bin\Debug\OopConceptProj.exe.config
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\OopConceptProj\bin\Debug\OopConceptProj.exe
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\OopConceptProj\bin\Debug\OopConceptProj.pdb
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\OopConceptProj\obj\Debug\OopConceptProj.csprojAssemblyReference.cache
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\OopConceptProj\obj\Debug\OopConceptProj.csproj.CoreCompileInputs.cache
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\OopConceptProj\obj\Debug\OopConceptProj.exe
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\OopConceptProj\obj\Debug\OopConceptProj.pdb

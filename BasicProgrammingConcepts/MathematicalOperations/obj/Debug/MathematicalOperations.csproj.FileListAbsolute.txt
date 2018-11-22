@@ -1,0 +1,15 @@
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\bin\Debug\MathematicalOperations.exe.config
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\bin\Debug\MathematicalOperations.exe
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\bin\Debug\MathematicalOperations.pdb
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\bin\Debug\nunit.framework.dll
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\bin\Debug\WebDriver.dll
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\bin\Debug\WebDriver.Support.dll
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\bin\Debug\nunit.framework.pdb
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\bin\Debug\nunit.framework.xml
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\bin\Debug\WebDriver.xml
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\bin\Debug\WebDriver.Support.xml
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\obj\Debug\MathematicalOperations.csprojAssemblyReference.cache
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\obj\Debug\MathematicalOperations.csproj.CoreCompileInputs.cache
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\obj\Debug\MathematicalOperations.csproj.CopyComplete
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\obj\Debug\MathematicalOperations.exe
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\MathematicalOperations\obj\Debug\MathematicalOperations.pdb

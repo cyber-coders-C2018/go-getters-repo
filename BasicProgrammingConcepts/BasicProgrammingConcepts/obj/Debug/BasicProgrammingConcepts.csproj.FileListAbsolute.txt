@@ -1,0 +1,15 @@
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\bin\Debug\BasicProgrammingConcepts.exe.config
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\bin\Debug\BasicProgrammingConcepts.exe
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\bin\Debug\BasicProgrammingConcepts.pdb
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\bin\Debug\nunit.framework.dll
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\bin\Debug\WebDriver.dll
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\bin\Debug\WebDriver.Support.dll
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\bin\Debug\nunit.framework.pdb
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\bin\Debug\nunit.framework.xml
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\bin\Debug\WebDriver.xml
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\bin\Debug\WebDriver.Support.xml
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\obj\Debug\BasicProgrammingConcepts.csprojAssemblyReference.cache
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\obj\Debug\BasicProgrammingConcepts.csproj.CoreCompileInputs.cache
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\obj\Debug\BasicProgrammingConcepts.csproj.CopyComplete
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\obj\Debug\BasicProgrammingConcepts.exe
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\BasicProgrammingConcepts\obj\Debug\BasicProgrammingConcepts.pdb

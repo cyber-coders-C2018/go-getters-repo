@@ -1,0 +1,10 @@
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\AccessModifierProject\bin\Debug\AccessModifierProject.exe.config
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\AccessModifierProject\bin\Debug\AccessModifierProject.exe
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\AccessModifierProject\bin\Debug\AccessModifierProject.pdb
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\AccessModifierProject\bin\Debug\IPhoneProject.dll
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\AccessModifierProject\bin\Debug\IPhoneProject.pdb
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\AccessModifierProject\obj\Debug\AccessModifierProject.csprojAssemblyReference.cache
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\AccessModifierProject\obj\Debug\AccessModifierProject.csproj.CoreCompileInputs.cache
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\AccessModifierProject\obj\Debug\AccessModifierProject.csproj.CopyComplete
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\AccessModifierProject\obj\Debug\AccessModifierProject.exe
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\AccessModifierProject\obj\Debug\AccessModifierProject.pdb

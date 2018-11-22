@@ -1,0 +1,6 @@
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\IPhoneProject\bin\Debug\IPhoneProject.dll
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\IPhoneProject\bin\Debug\IPhoneProject.pdb
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\IPhoneProject\obj\Debug\IPhoneProject.csprojAssemblyReference.cache
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\IPhoneProject\obj\Debug\IPhoneProject.csproj.CoreCompileInputs.cache
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\IPhoneProject\obj\Debug\IPhoneProject.dll
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\IPhoneProject\obj\Debug\IPhoneProject.pdb

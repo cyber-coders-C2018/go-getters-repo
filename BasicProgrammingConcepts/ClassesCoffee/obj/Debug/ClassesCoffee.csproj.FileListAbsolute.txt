@@ -1,0 +1,7 @@
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\ClassesCoffee\bin\Debug\ClassesCoffee.exe.config
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\ClassesCoffee\bin\Debug\ClassesCoffee.exe
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\ClassesCoffee\bin\Debug\ClassesCoffee.pdb
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\ClassesCoffee\obj\Debug\ClassesCoffee.csprojAssemblyReference.cache
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\ClassesCoffee\obj\Debug\ClassesCoffee.csproj.CoreCompileInputs.cache
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\ClassesCoffee\obj\Debug\ClassesCoffee.exe
+D:\CodeRoom\traincentre_codes\CSharp\Batch18A\mscsharp.programs.repo\BasicProgrammingConcepts\ClassesCoffee\obj\Debug\ClassesCoffee.pdb
